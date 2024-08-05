@@ -7,3 +7,6 @@
 一個單向鏈結串列的節點被分成兩個部分。第一個部分儲存或者顯示關於節點的資訊，第二個部分儲存下一個節點的位址。單向鏈結串列只可向一個方向節點走訪。
 
 ![image](https://github.com/user-attachments/assets/c9b9791b-0b2c-4668-aba5-b06199dced74)
+## 新增節點
+![新增節點](https://github.com/user-attachments/assets/7849d703-c441-4446-b57a-d9614ae561b9)
+## 鏈結串列的操作
