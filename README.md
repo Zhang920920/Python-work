@@ -9,4 +9,6 @@
 ![image](https://github.com/user-attachments/assets/c9b9791b-0b2c-4668-aba5-b06199dced74)
 ## 新增節點
 ![新增節點](https://github.com/user-attachments/assets/7849d703-c441-4446-b57a-d9614ae561b9)
-## 鏈結串列的操作
+## 單項鏈結串列的操作
+![鏈結串列的操作](https://github.com/user-attachments/assets/5c442638-8979-4ca0-97d7-c4c4899d6b92)
+
